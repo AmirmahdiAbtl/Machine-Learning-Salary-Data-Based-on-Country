@@ -63,4 +63,7 @@ And Multi-linear Regression and l2 regularization too that i mentioned them in n
 
 <h2>Data Base Link: <a href="https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country">Link</a></h2>
 <h2>Colab Notebook Link: <a href="https://colab.research.google.com/drive/1mVqH1VBxk9l5MzJLjwQ8m6CwF6QqRHXf?usp=sharing">Link</a></h2>
-<h2>Kaggle Notebook Link: <a href="https://colab.research.google.com/drive/1mVqH1VBxk9l5MzJLjwQ8m6CwF6QqRHXf?usp=sharing">Link</a></h2>
+<h2>Kaggle Notebook Link: <a href="https://www.kaggle.com/code/amirmahdiabbootalebi/with-this-notebook-you-don-t-need-any-courses">Link</a></h2>
+
+![Page 1](path/to/image1.png)
+![Page 2](path/to/image2.png)
