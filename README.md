@@ -58,5 +58,9 @@ def Gradient_descent(x, y, w, b, alpha, epochs):
                   f"w: {w: 0.3e}, b:{b: 0.5e}")
     return w, b, J_history
 ```
-<h4>At first download <a href="https://drive.google.com/drive/folders/1nWPOFxK3YEh8MVKdWs8A37lXmhbx-7al?usp=sharing">Dataset</a> that we need for doing this project</h4>
+And Multi-linear Regression and l2 regularization too that i mentioned them in notebook.
+# Importent Urls:
 
+<h2>Data Base Link: <a href="https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country">Link</a></h2>
+<h2>Colab Notebook Link: <a href="https://colab.research.google.com/drive/1mVqH1VBxk9l5MzJLjwQ8m6CwF6QqRHXf?usp=sharing">Link</a></h2>
+<h2>Kaggle Notebook Link: <a href="https://colab.research.google.com/drive/1mVqH1VBxk9l5MzJLjwQ8m6CwF6QqRHXf?usp=sharing">Link</a></h2>
